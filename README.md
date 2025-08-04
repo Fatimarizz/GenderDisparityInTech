@@ -360,7 +360,7 @@ Reddit
 <img width="1920" height="930" alt="image" src="https://github.com/user-attachments/assets/ee8b693e-9c11-44dd-95ca-251b8809a7ae" />
 <img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/0331117b-e855-450a-8c42-d0cb5edec313" />
 <img width="1915" height="917" alt="image" src="https://github.com/user-attachments/assets/7073718e-b611-4df4-a966-2cf26110d5d2" />
-<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/997daddb-d1a1-486d-a4fa-e5b614fb3f3b" 
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/997daddb-d1a1-486d-a4fa-e5b614fb3f3b" /> 
 
   Cross platform
   <img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/1ed40f29-ecd1-42f6-84ea-cc605673f241" />
