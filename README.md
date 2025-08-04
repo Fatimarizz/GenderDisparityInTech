@@ -17,14 +17,13 @@ This project analyzes gender disparities in technology communities through direc
 - Technology communities often face criticism for gender imbalance
 - Understanding representation patterns helps identify areas for improvement
 - Cross-platform analysis reveals platform-specific challenges
-- Data-driven insights can inform community building strategies
+  
 
 **Research Questions**:
 - How does gender representation vary across different technology platforms?
 - What patterns of engagement and recognition exist between different genders?
 - Are there systematic biases in community interactions and recognition systems?
 - How do platform characteristics influence gender participation patterns?
-- What factors contribute to or mitigate gender disparities in tech communities?
 
 ## Methodology
 
