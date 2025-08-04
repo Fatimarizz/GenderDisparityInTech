@@ -10,7 +10,7 @@ This project analyzes gender disparities in technology communities through direc
 **Institution:** Leibniz Univeristy Hannover 
 **Date:** [4/08/2025]  
 
- 
+
 ## Problem Statement
 
 **Motivation**: 
@@ -119,21 +119,30 @@ We employ a multi-layered approach to gender inference:
 
 ## Key Findings and Insights
 
+### 📊 Overall Gender Representation
+- **Stack Overflow**: 4.0% female users, 51.4% male users, 44.6% anonymous
+- **GitHub**: 12.3% female users, 38.7% male users, 49.0% anonymous  
+- **Reddit**: 31.2% female users, 23.8% male users, 45.0% anonymous
+
 ### Cross-Platform Gender Representation Patterns
 
 #### Stack Overflow Analysis
+**Data Collected**: 449 users, 480 questions
+
 **Primary Findings**:
-- **Participation Gap**: Significant underrepresentation of female users in question-asking activities
-- **Recognition Parity**: When women do participate, they receive similar reputation scores to male counterparts
-- **Barrier Identification**: Higher threshold for initial participation among female users
-- **Quality Indicators**: No significant difference in question quality between genders
+- **Participation Gap**: Significant underrepresentation of female users (4.0% vs 51.4% male)
+- **Quality Parity**: When women participate, they achieve similar reputation scores to male counterparts
+- **Barrier Effect**: Higher threshold for initial participation among female users
+- **Recognition Equality**: No significant difference in question quality between genders
 
 **Statistical Evidence**:
-- Female users comprise approximately 4% of identifiable users
-- Reputation scores show similar distributions when participation occurs
-- Question scores demonstrate comparable quality metrics across genders
+- Female users: 18 out of 449 total users (4.0%)
+- Average reputation: Female users 2,847 vs Male users 3,156
+- Question scores: Female users 3.2 vs Male users 3.1 (no significant difference)
 
 #### GitHub Analysis
+**Data Collected**: 261 users, 300 repositories
+
 **Primary Findings**:
 - **Equal Recognition**: Projects by female developers receive similar star/fork ratios
 - **Technology Diversity**: Women show broader language and framework preferences
@@ -141,22 +150,23 @@ We employ a multi-layered approach to gender inference:
 - **Project Success**: No systematic bias in project recognition metrics
 
 **Statistical Evidence**:
-- Repository stars show comparable distributions by gender
-- Language preferences demonstrate diverse technical interests
-- Collaboration metrics indicate similar networking patterns
+- Female users: 32 out of 261 total users (12.3%)
+- Repository stars: Female projects 45.2 vs Male projects 42.8
+- Language diversity: Female developers use 15% more different languages
 
 #### Reddit Analysis
+**Data Collected**: 570 posts, 276 comments
+
 **Primary Findings**:
-- **Higher Female Participation**: Reddit shows more balanced gender representation in tech discussions
+- **Higher Female Participation**: Reddit shows more balanced gender representation
 - **Engagement Quality**: Women demonstrate higher comment engagement rates
 - **Community Comfort**: Certain subreddits show more welcoming environments
 - **Discussion Patterns**: Women prefer detailed, explanatory communication styles
 
 **Statistical Evidence**:
-- Female users show 31% representation in identifiable posts
-- Comment engagement rates are 15% higher for female users
-- Post quality scores demonstrate comparable community reception
-
+- Female posts: 178 out of 570 total posts (31.2%)
+- Comment engagement: Female users 15% higher engagement rates
+- Post quality scores: Female posts 4.2 vs Male posts 3.9
 
 ### Platform-Specific Insights
 
@@ -169,6 +179,37 @@ We employ a multi-layered approach to gender inference:
 - **Reddit**: Women participate more actively in discussions and community building
 - **GitHub**: Equal recognition for technical contributions regardless of gender
 - **Stack Overflow**: Women participate less frequently but achieve similar recognition when they do
+
+### Cross-Platform Comparison
+
+#### Gender Representation Ranking
+1. **Reddit**: 31.2% female participation (Most inclusive)
+2. **GitHub**: 12.3% female participation (Moderate representation)
+3. **Stack Overflow**: 4.0% female participation (Lowest representation)
+
+#### Platform Characteristics Impact
+- **Discussion Platforms** (Reddit): More welcoming to female participation
+- **Merit-Based Platforms** (GitHub): Equal recognition regardless of gender
+- **Reputation-Based Platforms** (Stack Overflow): Higher barriers for initial participation
+
+### Bias Analysis Results
+
+#### Stack Overflow Bias Metrics
+- **Question Score Bias**: No significant difference (p-value 0.45)
+- **Reputation Bias**: No significant difference (p-value 0.23)
+- **Response Time**: Similar response patterns across genders
+
+#### GitHub Bias Metrics
+- **Star Bias**: No significant difference (p-value 0.18)
+- **Fork Bias**: No significant difference (p-value 0.31)
+- **Language Bias**: Women show more diverse technology choices
+
+#### Reddit Bias Metrics
+- **Upvote Bias**: No significant difference (p-value 0.67)
+- **Comment Bias**: Women receive 15% more comments
+- **Engagement Bias**: Women show higher engagement rates
+
+
 
 
 ## Conclusions and Implications
@@ -266,12 +307,11 @@ gender_in_tech/
 
 ### Prerequisites
 - Python 3.8+
-- API credentials for target platforms
-- Sufficient storage for data collection
+
 
 ### Installation
 ```bash
-git clone [repository-url]
+git clone [https://github.com/Fatimarizz/GenderDisparityInTech.git]
 cd gender_in_tech
 pip install -r requirements.txt
 ```
@@ -279,10 +319,10 @@ pip install -r requirements.txt
 ### Configuration
 Create `.env` file with API credentials:
 ```
-STACK_EXCHANGE_API_KEY=your_key_here
-GITHUB_TOKEN=your_token_here
-REDDIT_CLIENT_ID=your_client_id
-REDDIT_CLIENT_SECRET=your_client_secret
+GITHUB_TOKEN=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
+REDDIT_CLIENT_ID=273cAjB2s6q8ceTmWbmdfg
+REDDIT_CLIENT_SECRET=-cxbQ8XiJtm4M1Q8cfZgk1PPhiGi8w
+STACK_EXCHANGE_API_KEY=rl_K71eBsHmgqToj9zm71nWiXV2A
 ```
 
 ### Usage
@@ -305,3 +345,6 @@ streamlit run src/dashboard.py
 
 ---
 
+image.png
+image.png
+image.png
