@@ -344,7 +344,35 @@ streamlit run src/dashboard.py
 - Tech community members who provided feedback and insights
 
 ---
+<img width="1918" height="933" alt="image" src="https://github.com/user-attachments/assets/5928b4d7-577c-434c-9ac7-3b939afab504" />
 
-image.png
-image.png
-image.png
+<img width="1920" height="795" alt="image" src="https://github.com/user-attachments/assets/3b8a0775-1f81-462e-8d57-e0f93b55321c" />
+<img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/e70d6452-371f-4ef4-9d0d-0e381c8fd513" />
+
+Github
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/139d0f39-f2cc-445a-b2cd-b89cea378940" />
+<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/7892ba39-32a2-4169-ac09-e1aea252184b" />
+<img width="1920" height="930" alt="image" src="https://github.com/user-attachments/assets/a5841b49-c9ee-4ddf-9c70-708e0de0ff77" />
+
+
+Reddit 
+<img width="1910" height="928" alt="image" src="https://github.com/user-attachments/assets/ae90775a-96a1-4e93-9146-45d486d0a04b" />
+<img width="1920" height="930" alt="image" src="https://github.com/user-attachments/assets/ee8b693e-9c11-44dd-95ca-251b8809a7ae" />
+<img width="1920" height="937" alt="image" src="https://github.com/user-attachments/assets/0331117b-e855-450a-8c42-d0cb5edec313" />
+<img width="1915" height="917" alt="image" src="https://github.com/user-attachments/assets/7073718e-b611-4df4-a966-2cf26110d5d2" />
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/997daddb-d1a1-486d-a4fa-e5b614fb3f3b" 
+
+  Cross platform
+  <img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/1ed40f29-ecd1-42f6-84ea-cc605673f241" />
+  <img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/cddf800e-548a-4f1a-b403-4bd2d98409c4" />
+
+
+
+
+
+
+
+
+
+
+
